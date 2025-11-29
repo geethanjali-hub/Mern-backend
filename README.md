@@ -8,7 +8,7 @@ Setup
 2. Install dependencies:
 
 ```bash
-cd server
+
 npm install
 ```
 
